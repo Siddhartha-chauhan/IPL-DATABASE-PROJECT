@@ -22,5 +22,5 @@ CREATE TABLE deliveries (
     player_dismissed  TEXT,
     dismissal_kind    TEXT,
     fielder           TEXT,
-    FOREIGN KEY (match_id) REFERENCES matches(id)
 );
+
