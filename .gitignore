@@ -1,0 +1,13 @@
+
+# macOS system files
+.DS_Store
+
+# PostgreSQL dumps
+*.sql~
+*.backup
+
+# Data files (keep only if needed)
+*.csv
+
+# Ignore cache
+__pycache__/
