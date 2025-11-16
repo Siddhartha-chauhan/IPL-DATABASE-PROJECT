@@ -1,0 +1,3 @@
+PostgreSQL (Version 12+)
+psql 
+CLImacOS / Linux / Windows
